@@ -4,7 +4,8 @@
 Data Engineering on Google Cloud Platform. Launch your career in Data Engineering. Deliver business value with big data and machine learning.
 
 
-Five courses are included:**
+Five courses are included:
+
 * Course 1: Google Cloud Platform Big Data and Machine Learning Fundamentals
 * Course 2: Modernizing Data Lakes and Data Warehouses with GCP
 * Course 3: Building Batch Data Pipelines on GCP
@@ -30,7 +31,7 @@ flexibility, and power of big data solutions on Google Cloud.
 
 --------------------------------------------------
 
-## About* Course 2: Modernizing Data Lakes and Data Warehouses with GCP
+## About Course 2: Modernizing Data Lakes and Data Warehouses with GCP
 
 The two key components of any data pipeline are data lakes and warehouses. This
 course highlights use-cases for each type of storage and dives into the
@@ -43,7 +44,7 @@ using QwikLabs.
 
 --------------------------------------------------
 
-## About* Course 3: Building Batch Data Pipelines on GCP
+## About Course 3: Building Batch Data Pipelines on GCP
 
 Data pipelines typically fall under one of the Extra-Load,
 Extract-Load-Transform or Extract-Transform-Load paradigms. This course
@@ -56,7 +57,7 @@ Google Cloud Platform using Qwiklabs.
 
 --------------------------------------------------
 
-## About* Course 4: Building Resilient Streaming Analytics Systems on GCP
+## About Course 4: Building Resilient Streaming Analytics Systems on GCP
 
 Processing streaming data is becoming increasingly popular as streaming enables
 businesses to get real-time metrics on business operations. This course covers
@@ -69,7 +70,7 @@ pipeline components on Google Cloud Platform using QwikLabs.
 
 --------------------------------------------------
 
-## About* Course 5: Smart Analytics, Machine Learning, and AI on GCP
+## About Course 5: Smart Analytics, Machine Learning, and AI on GCP
 
 Incorporating machine learning into data pipelines increases the ability of
 businesses to extract insights from their data. This course covers several ways
